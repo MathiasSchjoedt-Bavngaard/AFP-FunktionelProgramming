@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ABciJXVtEnz/sK8lgIEH8YOHgs9pJKibm5F6/niYh9gtazehtEtJ80vOLf4mtUK8P+kkUKWU4EFiEsjHmaqk9A==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\SoftwareEngeneer6\\AFP - Funktionel\\Exercise\\Week2\\Week2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MathiasSchjoedt-Bavn\\.nuget\\packages\\fsharp.core\\6.0.7\\fsharp.core.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
